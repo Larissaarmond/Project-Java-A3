@@ -43,7 +43,7 @@ Compile e Execute a Aplicação:
 No NetBeans IDE, clique com o botão direito no projeto e selecione Construir.
 Após a construção, clique com o botão direito novamente e selecione Executar.
 
-(img/telalogin.png)
-(img/tela1.png)
+[tela login](img/telalogin.png)
+[tela menu](img/tela1.png)
 
 
