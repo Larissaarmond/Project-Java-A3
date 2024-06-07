@@ -43,9 +43,9 @@ Compile e Execute a Aplicação:
 No NetBeans IDE, clique com o botão direito no projeto e selecione Construir.
 Após a construção, clique com o botão direito novamente e selecione Executar.
 
-[tela login](Project-Java-A3/img/telalogin.png)
+[tela login](img/teladelogin.png)
 
 
-[tela menu](Project-Java-A3/img/tela1.png)
+[tela menu](img/tela1.png)
 
 
