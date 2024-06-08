@@ -1,7 +1,7 @@
 # Project-Java-A3
 Sistema de Agendamento de Consultas
 Descrição
-O Sistema de Agendamento de Consultas é uma aplicação desktop desenvolvida em Java utilizando o NetBeans IDE. O objetivo principal do sistema é gerenciar e facilitar o agendamento de consultas em uma clínica ou consultório médico. O sistema permite que os usuários cadastrem pacientes, médicos, e agendamentos de forma simples e eficiente.
+O Sistema de Agendamento de Consultas é uma aplicação desktop desenvolvida em Java utilizando o NetBeans IDE. O objetivo principal do sistema é gerenciar e facilitar o agendamento de consultas em uma clínica ou consultório médico. O sistema permite que os usuários cadastrem pacientes e agendamentos de forma simples e eficiente.
 
 Funcionalidades
 Cadastro de Pacientes: Permite o registro de informações detalhadas sobre os pacientes, como nome, idade, endereço, telefone, e histórico médico.
